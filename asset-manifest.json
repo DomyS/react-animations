@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-animations/static/css/main.b6eaaa29.chunk.css",
+    "main.js": "/react-animations/static/js/main.bd3ff2c9.chunk.js",
+    "main.js.map": "/react-animations/static/js/main.bd3ff2c9.chunk.js.map",
+    "runtime~main.js": "/react-animations/static/js/runtime~main.70703c5c.js",
+    "runtime~main.js.map": "/react-animations/static/js/runtime~main.70703c5c.js.map",
+    "static/js/2.da03b266.chunk.js": "/react-animations/static/js/2.da03b266.chunk.js",
+    "static/js/2.da03b266.chunk.js.map": "/react-animations/static/js/2.da03b266.chunk.js.map",
+    "index.html": "/react-animations/index.html",
+    "precache-manifest.c667e3dc3d636b279c208692ce7e77b6.js": "/react-animations/precache-manifest.c667e3dc3d636b279c208692ce7e77b6.js",
+    "service-worker.js": "/react-animations/service-worker.js",
+    "static/css/main.b6eaaa29.chunk.css.map": "/react-animations/static/css/main.b6eaaa29.chunk.css.map"
+  }
+}
